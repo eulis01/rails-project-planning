@@ -218,6 +218,6 @@ Figma) and will look similar to this:
 [draw.io video]: https://www.youtube.com/watch?v=lAtCySGDD48
 [draw.io]: https://www.draw.io/
 [this article]: https://www.atlassian.com/agile/project-management/user-stories
-[planning form]: https://forms.gle/nxtzb5dbPP2HxZU79
+[planning form]: https://docs.google.com/forms/d/1QRT2KbDTazeZY-ZLvRc0QjAaZb_ML3i_PM2AhvS_aYQ/edit?ts=5df9018c
 [live build]: https://youtu.be/825w5S69J38
 [study groups]: https://learn.co/study-groups
